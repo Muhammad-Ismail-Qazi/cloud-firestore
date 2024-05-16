@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "334764737334",
+    "project_id": "fir-firestore-366cb",
+    "storage_bucket": "fir-firestore-366cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334764737334:android:2edf01b1b3034258896997",
+        "android_client_info": {
+          "package_name": "com.becoder.firebase_firestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuS0x_7sy2DZWTbrWNYyjo1DVUnAng7H0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
